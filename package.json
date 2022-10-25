@@ -2,6 +2,7 @@
   "name": "rubyfurigana",
   "displayName": "RubyFurigana",
   "description": "Add <ruby> furigana to kanji",
+  "publisher": "lletter",
   "version": "0.0.2",
   "engines": {
     "vscode": "^1.72.0"
